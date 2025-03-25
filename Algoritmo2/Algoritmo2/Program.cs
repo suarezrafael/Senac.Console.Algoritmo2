@@ -6,3 +6,4 @@ var nomeCompleto = "Rafael Vieira Suarez";
 var altura = 180;
 
 
+
